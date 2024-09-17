@@ -1,72 +1,52 @@
 # AI to Feed the Future
 
-## Overview and Origin
+## Overview and Origin of [Caron Robotics]:https://carbonrobotics.com/ : 
 
-* Caron Robotics 
-
-* The Origins of the Company
+* __The Origins of the Company__:
 > In 2018, Paul Mikesell having already been in the startup world via the company Isilon Systems, was looking for physical work applications of computer vision. He identified an issue in the cost and effort of labor requried in farming especially organic farming. He recognized that by reducing labor costs via automated robotic tools that produce cost could alsot be reduced. He worked with farmers in Oregon and Idaho and found that weed control was cited as one of the major issues, especially in terms of both cost to address and costs to profits. From here he started Caron Robotics which developed a specialized medium tractor sized robot which uses computer vision to identify weeds and zap them using lasers.
 
 * The company is primarily funded via venture capital, in their most recent Series C round they recieved $30 million. 
 
-## Business Activities
+## Business Activities:
 
 * The business problem the company is aiming to solve is the intensive labor and costs required in weed control. 
 
 * This business model focuses on the farmer customer:
-<Assuming that the intent of the company is to reach global markets then the projected gross production value of agriculture would be US$4.59 trillion> 
+> Assuming that the intent of the company is to reach global markets then the projected gross production value of agriculture would be US$4.59 trillion
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-It appears that the main benefit is weed control cost reduction without the usage of harmful herbicides 
+* It appears that the main benefit is weed control cost reduction without the usage of harmful herbicides. In addition the lasers cause minimal damage to the soil as opposed to manual removal via digging. This way the soil integrity is maintained.  
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-A computer vision model that controls a laser which is beefy enough to require 24 GPUs per tractor. 
-see url: 
-The computer vision model is a neural network that is trained on the natural shapes of leaves etc to determine weed versus crop. 
+* Their flagship robotic tractor uses a **computer vision model** that identifies weed species a crop species and then controls a laser to burn the weed species. The computer vision model is intensive enough to require 24 GPUs per tractor. This computer vision model is a neural network that is trained on the natural shapes of leaves etc to determine weed versus crop. 
 
-## Landscape
+## __Landscape__:
 
-* What field is the company in?
-A combination of agriculture and tech 
+* The field of Caron Robotics is the combination of agriculture with computerized tech. 
+
+> In this field, the trends of agriculture are technology, labor cost and availibility, and desires of various crops deeply affecting the locations in which foods are produced. The general trends for agricultural products for the past 5-10 years are that corn, soybeans, sugar, and wheat remain the highest consumed crops. More recently there has been a push to automate farming in particular as tools to improve decision making. But as countries and societies gain more income they tend to consume more meat, and that various health and climate change initiatives have the possibility of shifting crop and animal demands which would influence the adoption of Caron Robotics' weed removing technology. Major innovations mainly include products like "cultured meats" and plant based meat replacements. 
 
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-By the looks of things, the major trends of agriculture are the same as they've always been since the dawn of human history which is technology, labor cost and availibility, and desires of various crops deeply affecting the locations in which foods are produced. The general trends for the past 5-10 years are that corn, soybeans, sugar, and wheat remain the highest consumed crops, that as countries and societies gain more income they tend to consume more meat, and that various health and climate change initiatives have possibility of shifting crop and animal demands. Major innovations mainly include products like "cultured meats" and plant based meat replacements. More recently there has been a push to automate farming in particular as tools to improve decision making. 
+* Caron Robotics major competitors are:
+>> CropX
+>> Tysons
+>> Daniels-Midland
+>> Bunge Ltd.
 
 
-* What are the other major companies in this field?
-CropX
-Tysons
-Daniels-Midland
-Bunge Ltd.
+## __Results of Caron Robotics Efforts__:
 
+* Caron Robotics impacts on the market are mainly shown in the reduction of weed control costs by about 80 percent while also improving yield and quality of produce. 
 
-## Results
+* To achieve this result, Caron Robotics tracks the number of weeds destroyed, resulting crop yield, and reduction of weed control costs once their robot is deployed. In addition they utilize acres examined per hour, accuracy in weed identification by the model, and false positive and false negative rates done by the model. 
 
-* What has been the business impact of this company so far?
-Mainly reduction of weed control costs 
+* Compared to its competitors. Caron Robotics appears to be performing well. For example, a competitor of a similar size such as AiGen is only able to offer a smaller rover type solar powered robot that uses automated digging out of weeds to control weeds. This is not as effective in cost cutting nor soil integrity preservation. 
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-Number of weeds destroyed, resulting crop yield, and reduction of weed control costs. 
-In addition they utilize acres examined per hour, accuracy in weed identification, false positive and false negative rates. 
+## __Recommendations by the Author__:
 
-* How is your company performing relative to competitors in the same field?
-It appears to be performing well. Certainly better than AiGen which offers a less complex solar powered AI robot weed controller 
-
-## Recommendations
-
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-It would be interesting to see if the robot could be bundled with a seeder that determines the likelihood of each seed of a given species germinating and planting the appropriate amounts per area in the row. This would reduce the need for thinning out seedlings along with reducing seed costs. 
-
-
-* Why do you think that offering this product or service would benefit the company?
-It would provide a further cost cutting measure to reduce the operating costs of a farmer thereby further incentivizing a purchase. See urls above. 
-
-* What technologies would this additional product or service utilize?
-It 'should' be able to leverage the already present computer vision model, otherwise it might require an additional camera or chemical sensors and a seeding mechanical design to seed at appropriate depths. See urls above. 
-
-* Why are these technologies appropriate for your solution?
-These technologies are appropriate as they would achieve an automation of the seeding process in a way that the human eye and hand would have difficulty doing on an industrial scale. See urls above. 
+* Seeding: 
+> It would be interesting to see if the robot could be bundled with a seeder that determines the likelihood of each seed of a given species germinating and planting the appropriate amounts per area in the row. This would reduce the need for thinning out seedlings along with reducing seed costs. 
+> Such a feature would provide a further cost cutting measure to reduce the operating costs of a farmer thereby further incentivizing a purchase. 
+> This feature should be able to leverage the already present computer vision model, otherwise it might require an additional camera or chemical sensors and a seeding mechanical design to seed at appropriate depths. 
+> These technologies would achieve an automation of the seeding process in a way that the human eye and hand would have difficulty doing on an industrial scale. This would further reduce farming labor costs which results in even cheaper produce.  
 
 ## Citations:
 
