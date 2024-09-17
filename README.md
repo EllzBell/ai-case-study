@@ -71,12 +71,14 @@ see url:  https://www.crunchbase.com/organization/aigen
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 It would be interesting to see if the robot could be bundled with a seeder that determines the likelihood of each seed of a given species germinating and planting the appropriate amounts per area in the row. This would reduce the need for thinning out seedlings along with reducing seed costs. 
+see url: https://ag.purdue.edu/commercialag/home/paer-article/2023-purdue-crop-cost-and-return-guide/
+see url: https://cropsandsoils.extension.wisc.edu/articles/precision-agriculture-101-planting/
 
 * Why do you think that offering this product or service would benefit the company?
-It would provide a further cost cutting measure to reduce the operating costs of a farmer thereby further incentivizing a purchase. 
+It would provide a further cost cutting measure to reduce the operating costs of a farmer thereby further incentivizing a purchase. See urls above. 
 
 * What technologies would this additional product or service utilize?
-It 'should' be able to leverage the already present computer vision model, otherwise it might require an additional camera or chemical sensors and a seeding mechanical design to seed at appropriate depths. 
+It 'should' be able to leverage the already present computer vision model, otherwise it might require an additional camera or chemical sensors and a seeding mechanical design to seed at appropriate depths. See urls above. 
 
 * Why are these technologies appropriate for your solution?
-These technologies are appropriate as they would achieve an automation of the seeding process in a way that the human eye and hand would have difficulty doing on an industrial scale. 
+These technologies are appropriate as they would achieve an automation of the seeding process in a way that the human eye and hand would have difficulty doing on an industrial scale. See urls above. 
