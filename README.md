@@ -26,10 +26,10 @@
 
 
 * Caron Robotics major competitors are:
->> CropX
->> Tysons
->> Daniels-Midland
->> Bunge Ltd.
+1. CropX
+2. Tysons
+3. Daniels-Midland
+4. Bunge Ltd.
 
 
 ## __Results of Caron Robotics Efforts__:
