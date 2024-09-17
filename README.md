@@ -38,7 +38,7 @@
 
 * To achieve this result, Caron Robotics tracks the number of weeds destroyed, resulting crop yield, and reduction of weed control costs once their robot is deployed. In addition they utilize acres examined per hour, accuracy in weed identification by the model, and false positive and false negative rates done by the model. 
 
-* Compared to its competitors. Caron Robotics appears to be performing well. For example, a competitor of a similar size such as AiGen is only able to offer a smaller rover type solar powered robot that uses automated digging out of weeds to control weeds. This is not as effective in cost cutting nor soil integrity preservation. 
+* Compared to its competitors, Caron Robotics appears to be performing well. For example, a competitor of a similar size such as AiGen is only able to offer a smaller rover type solar powered robot that uses automated digging out of weeds to control weeds. This is not as effective in cost cutting nor soil integrity preservation. 
 
 ## __Recommendations by the Author__:
 
