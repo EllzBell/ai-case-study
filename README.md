@@ -14,7 +14,7 @@
 * This business model focuses on the farmer customer:
 > Assuming that the intent of the company is to reach global markets then the projected gross production value of agriculture would be US$4.59 trillion
 
-* It appears that the main benefit is weed control cost reduction without the usage of harmful herbicides. In addition the lasers cause minimal damage to the soil as opposed to manual removal via digging. This way the soil integrity is maintained.  
+* The main benefit of Caron Robotics is its weed control cost reduction without the usage of harmful herbicides. In addition the lasers cause minimal damage to the soil as opposed to manual removal via digging. This way the soil integrity is maintained.  
 
 * Their flagship robotic tractor uses a **computer vision model** that identifies weed species a crop species and then controls a laser to burn the weed species. The computer vision model is intensive enough to require 24 GPUs per tractor. This computer vision model is a neural network that is trained on the natural shapes of leaves etc to determine weed versus crop. 
 
