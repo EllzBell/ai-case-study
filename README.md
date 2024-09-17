@@ -5,9 +5,9 @@
 * Caron Robotics 
 
 * The Origins of the Company
-* <In 2018, Paul Mikesell having already been in the startup world via the company Isilon Systems, was looking for physical work applications of computer vision. He identified an issue in the cost and effort of labor requried in farming especially organic farming. He recognized that by reducing labor costs via automated robotic tools that produce cost could alsot be reduced. He worked with farmers in Oregon and Idaho and found that weed control was cited as one of the major issues, especially in terms of both cost to address and costs to profits. From here he started Caron Robotics which developed a specialized medium tractor sized robot which uses computer vision to identify weeds and zap them using lasers.
+> In 2018, Paul Mikesell having already been in the startup world via the company Isilon Systems, was looking for physical work applications of computer vision. He identified an issue in the cost and effort of labor requried in farming especially organic farming. He recognized that by reducing labor costs via automated robotic tools that produce cost could alsot be reduced. He worked with farmers in Oregon and Idaho and found that weed control was cited as one of the major issues, especially in terms of both cost to address and costs to profits. From here he started Caron Robotics which developed a specialized medium tractor sized robot which uses computer vision to identify weeds and zap them using lasers.
 
-* <The company is primarily funded via venture capital, in their most recent Series C round they recieved $30 million. 
+* The company is primarily funded via venture capital, in their most recent Series C round they recieved $30 million. 
 
 ## Business Activities
 
