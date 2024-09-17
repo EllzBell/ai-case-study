@@ -16,7 +16,7 @@
 
 * The main benefit of Caron Robotics is its weed control cost reduction without the usage of harmful herbicides. In addition the lasers cause minimal damage to the soil as opposed to manual removal via digging. This way the soil integrity is maintained.  
 
-* Their flagship robotic tractor uses a **computer vision model** that identifies weed species a crop species and then controls a laser to burn the weed species. The computer vision model is intensive enough to require 24 GPUs per tractor. This computer vision model is a neural network that is trained on the natural shapes of leaves etc to determine weed versus crop. 
+* Their flagship robotic tractor uses a **computer vision model** that identifies weed species and crop species and then controls a laser to burn the weed species. The computer vision model is intensive enough to require 24 GPUs per tractor. This computer vision model is a neural network that is trained on the natural shapes of leaves etc to determine weed versus crop. 
 
 ## __Landscape__:
 
